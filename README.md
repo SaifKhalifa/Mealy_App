@@ -56,29 +56,29 @@ All images are stored in the snapshots folder at the project root.
 ### Auth and Onboarding
 | Splash | Sign In | Sign Up |
 | --- | --- | --- |
-| ![Splash](snapshots/splash.jpg) | ![Sign In](snapshots/signin.jpg) | ![Sign Up](snapshots/signup.jpg) |
+| ![Splash](Snapshots/splash.jpg) | ![Sign In](Snapshots/signin.jpg) | ![Sign Up](Snapshots/signup.jpg) |
 
 | Reset Password | Code Entry | No Internet |
 | --- | --- | --- |
-| ![Reset Password](snapshots/resetPassword.jpg) | ![Code Entry](snapshots/codeEnter.jpg) | ![No Internet](snapshots/no_internet_dialog.png) |
+| ![Reset Password](Snapshots/resetPassword.jpg) | ![Code Entry](Snapshots/codeEnter.jpg) | ![No Internet](Snapshots/no_internet_dialog.png) |
 
 ### User Experience
 | Home | Explore Meals | Profile |
 | --- | --- | --- |
-| ![Home](snapshots/homepage.png) | ![Explore Meals](snapshots/explore_meals.png) | ![Profile](snapshots/profile.png) |
+| ![Home](Snapshots/homepage.png) | ![Explore Meals](Snapshots/explore_meals.png) | ![Profile](Snapshots/profile.png) |
 
 | Profile Settings | Settings | Confirm Delete |
 | --- | --- | --- |
-| ![Profile Settings](snapshots/profile_settings.png) | ![Settings](snapshots/settings.png) | ![Confirm Delete](snapshots/confirm_delete_dialog.png) |
+| ![Profile Settings](Snapshots/profile_settings.png) | ![Settings](Snapshots/settings.png) | ![Confirm Delete](Snapshots/confirm_delete_dialog.png) |
 
 | Add Meal | Edit Task | Edit Goal |
 | --- | --- | --- |
-| ![Add Meal](snapshots/add_meal.png) | ![Edit Task](snapshots/edit_task_dialog.png) | ![Edit Goal](snapshots/edit_goal_dialog.png) |
+| ![Add Meal](Snapshots/add_meal.png) | ![Edit Task](Snapshots/edit_task_dialog.png) | ![Edit Goal](Snapshots/edit_goal_dialog.png) |
 
 ### Admin Experience
 | Admin Home |
 | --- |
-| ![Admin Home](snapshots/admin_home.png) |
+| ![Admin Home](Snapshots/admin_home.png) |
 
 ## Development Workflow
 - main holds production-ready code.
